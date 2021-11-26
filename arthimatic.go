@@ -22,7 +22,7 @@ func main() {
 	} else if ch == "/" {
 		fmt.Println("Div is: \n", a/b)
 	} else {
-		fmt.Println("Invalid Operation")
+		fmt.Println("Invalid Operation selected")
 	}
 
 }
